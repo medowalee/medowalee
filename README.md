@@ -8,14 +8,14 @@
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js)
 
-🌍 I Speak Arabic, English
+🌍 أنا أتحدث العربية والإنجليزية
 
  📷 Photoshopper | 🎮 Gamer
 
-💬 Connect with me on Discord: [Join my server](https://discord.gg/rujsQAVbGF)
+💬 تواصل معي على Discord: [الخادم الخاص بي](https://discord.gg/rujsQAVbGF)
 
-**I'm dedicated to crafting innovative solutions, securing the digital realm, and actively contributing to open-source projects. I'm passionate about diving deep into code and bringing creative ideas to life. Let's connect and collaborate on exciting projects!**
+**أنا مكرس لصياغة حلول مبتكرة ، وتأمين العالم الرقمي ، والمساهمة بنشاط في المشاريع مفتوحة المصدر. أنا متحمس للغوص بعمق في التعليمات البرمجية وجلب الأفكار الإبداعية إلى الحياة. دعنا نتواصل ونتعاون في مشاريع مثيرة!**
 
-# My Social Media
+# وسائل التواصل الاجتماعي الخاصة بي
 
 [Instagram](https://www.instagram.com/medowaleedmagde)  | [X](https://twitter.com/mohamad_mgde) | [Spotify](https://open.spotify.com/user/rroenaf41zyzjmo49d0ddvdog) | [Github](https://github.com/medowalee)
