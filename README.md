@@ -1,10 +1,10 @@
-#                 Hi there, I'm mohamad 👋
+#أهلا، أنا محمد 👋
 
-👨‍💻 Programmer | 🌐 Web Developer
+👨‍💻 مبرمج  | 🌐 مطور ويب
 
 
 
-# 🔧 Languages
+# 🔧 اللغات
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js)
 
