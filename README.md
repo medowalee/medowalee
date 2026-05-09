@@ -29,7 +29,7 @@ const Mohamed = {
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,go,react&theme=dark)
+![Skills](https://skillicons.dev/icons?i=html,css,js,git,github,go,react&theme=dark)
 
 </div>
 
